@@ -11,6 +11,16 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 <br>
 **And the best part: you can upload your own mods and maps to the workshop too!**
 
+## All in One Launcher *by Ravo92*
+<a href="https://github.com/Ravo92/aio-lotr-launcher">
+    <img src="https://img.shields.io/badge/GitHub-AIO Launcher-lime"/>
+</a><br>
+
+The All in One Launcher makes installing, modding and playing BFME games a breeze. Play with people around the world with built in multiplayer support trough Arena, discover new patches, maps and mods trough the Workshop, watch BFME quides and much more, this is the one launcher to rule them all!
+<br>
+
+**This is the Bfme Foundations officialy recommended launcher. It can be downloaded directly from our website at https://bfmeladder.com/download**
+
 <br>
 
 # For developers
@@ -20,27 +30,33 @@ If you are a developer, we have made all of this realy easy to implement into yo
 <a href="https://github.com/MarcellVokk/bfme-online-kit">
     <img src="https://img.shields.io/badge/GitHub-OnlineKit-lime"/>
 </a>
+
 <a href="https://www.nuget.org/packages/BfmeFoundationProject.OnlineKit">
     <img src="https://img.shields.io/nuget/v/BfmeFoundationProject.OnlineKit"/>
 </a><br>
+
 OnlineKit allows you to easily and seemlessly integrate Online Arena into your own projects. Check it out!
 
 ## WorkshopKit
 <a href="https://github.com/MarcellVokk/bfme-workshop-kit">
     <img src="https://img.shields.io/badge/GitHub-WorkshopKit-lime"/>
 </a>
+
 <a href="https://www.nuget.org/packages/BfmeFoundationProject.WorkshopKit">
     <img src="https://img.shields.io/nuget/v/BfmeFoundationProject.WorkshopKit"/>
 </a><br>
+
 WorkshopKit allows you to easily integrate Bfme Workshop into your own projects, and access the public Workshop API. Check it out!
 
 ## BfmeRegistryManagement
 <a href="https://github.com/MarcellVokk/bfme-registry-management">
     <img src="https://img.shields.io/badge/GitHub-BfmeRegistryManagement-lime"/>
 </a>
+
 <a href="https://www.nuget.org/packages/BfmeFoundationProject.BfmeRegistryManagement">
     <img src="https://img.shields.io/nuget/v/BfmeFoundationProject.BfmeRegistryManagement"/>
 </a><br>
+
 BfmeRegistryManagement helps you install BFME and modify the registry keys used by the BFME games. It makes installing the game realy easy. Check it out!
 
 ###### Developer by: Gazdag Marcell (*@marcellvokk*)<br> Founder & Owner: Beterwell (*@Beterwell*)
