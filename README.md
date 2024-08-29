@@ -48,15 +48,15 @@ OnlineKit allows you to easily and seemlessly integrate Online Arena into your o
 
 WorkshopKit allows you to easily integrate Bfme Workshop into your own projects, and access the public Workshop API. Check it out!
 
-## BfmeRegistryManagement
-<a href="https://github.com/MarcellVokk/bfme-registry-management">
-    <img src="https://img.shields.io/badge/GitHub-BfmeRegistryManagement-lime"/>
+## RegistryKit
+<a href="https://github.com/MarcellVokk/bfme-registry-kit">
+    <img src="https://img.shields.io/badge/GitHub-RegistryKit-lime"/>
 </a>
 
-<a href="https://www.nuget.org/packages/BfmeFoundationProject.BfmeRegistryManagement">
-    <img src="https://img.shields.io/nuget/v/BfmeFoundationProject.BfmeRegistryManagement"/>
+<a href="https://www.nuget.org/packages/BfmeFoundationProject.RegistryKit">
+    <img src="https://img.shields.io/nuget/v/BfmeFoundationProject.RegistryKit"/>
 </a><br>
 
-BfmeRegistryManagement helps you install BFME and modify the registry keys used by the BFME games. It makes installing the game realy easy. Check it out!
+RegistryKit helps you install BFME and modify the registry keys used by the BFME games. It makes installing the game realy easy. Check it out!
 
 ###### Developer by: Gazdag Marcell (*@marcellvokk*)<br> Founder & Owner: Beterwell (*@Beterwell*)
