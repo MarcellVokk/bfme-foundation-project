@@ -62,4 +62,4 @@ WorkshopKit allows you to easily integrate Bfme Workshop into your own projects,
 
 RegistryKit helps you install BFME and modify the registry keys used by the BFME games. It makes installing the game realy easy. Check it out!
 
-###### Developer by: Gazdag Marcell (*@marcellvokk*)<br> Founder & Owner: Beterwell (*@Beterwell*)
+###### Developed by The Bfme Foundation Project
