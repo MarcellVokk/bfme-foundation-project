@@ -3,7 +3,7 @@ Welcome to the official github repository of the Bfme Foundation Project!
 This project was created with one goal: to help finaly unite and bring together the BFME community.
 
 ## Online Arena
-Online Arena aims to be the leading platform for online BFME gaming. With more than 2 years of research, we brought back Quickmatch, and made online BFME gaming as easy as clicking a button. Arena features completely automatic matchmaking, win detection, and ladders. You just click and play! The total number of players who have already signed up is more than 15,000!<br>
+Online Arena aims to be the leading platform for online BFME gaming. With more than 2 years of research, we brought back Quickmatch, and made online BFME gaming as easy as clicking a button. Arena features completely automatic matchmaking, win detection, and ladders. You just click and play! The total number of players who have already signed up is more than 20,000!<br>
 **Join now: https://bfmeladder.com/**
 
 ## Bfme Workshop
