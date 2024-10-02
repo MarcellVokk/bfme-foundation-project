@@ -11,7 +11,10 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 <br>
 **And the best part: you can upload your own mods and maps to the workshop too!**
 
-## All in One Launcher *by Ravo92*
+## All in One Launcher
+
+*Made originaly by Ravo92*
+
 <a href="https://github.com/Ravo92/aio-lotr-launcher">
     <img src="https://img.shields.io/badge/GitHub-AIO Launcher-lime"/>
 </a><br>
