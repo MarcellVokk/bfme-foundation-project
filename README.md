@@ -22,7 +22,7 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 The All in One Launcher makes installing, modding and playing BFME games a breeze. Play with people around the world with built in multiplayer support trough Arena, discover new patches, maps and mods trough the Workshop, watch BFME quides and much more, this is the one launcher to rule them all!
 <br>
 
-**This launcher is recommended by The Bfme Foundation Project. It can be downloaded directly from our website at https://bfmeladder.com/download**
+**This launcher is recommended by The Bfme Foundation Project. It can be downloaded directly from https://bfmeladder.com/download**
 
 <br>
 
