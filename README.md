@@ -15,7 +15,7 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 
 *Made originaly by Ravo92*
 
-<a href="https://github.com/Ravo92/aio-lotr-launcher">
+<a href="https://github.com/MarcellVokk/aio-launcher">
     <img src="https://img.shields.io/badge/GitHub-AIO Launcher-lime"/>
 </a><br>
 
