@@ -28,7 +28,7 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 
 ## All in One Launcher
 
-*Developed originaly by Ravo92, now maintained and developed by the Patch 2.22 Team and the Bfme Foundation Project*
+*Developed originaly by Ravo92, now maintained and developed by the Patch 2.22 Team in collaboration with the Bfme Foundation Project*
 
 <a href="https://github.com/MarcellVokk/aio-launcher">
     <img src="https://img.shields.io/badge/GitHub-AIO Launcher-lime"/>
