@@ -26,6 +26,8 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 <br>
 **And the best part: you can upload your own mods and maps to the workshop too!**
 
+*Bfme Workshop is the platform used by Online Battle Arena and The All in One Launcher to manage patch syncing. Is is publicly available to upload to, and provides easy to use tools for developers to add to their own projects!*
+
 ## All in One Launcher
 
 *Developed originaly by Ravo92, now maintained and developed by the Patch 2.22 Team in collaboration with the Bfme Foundation Project*
