@@ -12,10 +12,16 @@ The Bfme Foundation Project is currently collaborating with...
 - Patch 1.09 Team (BFME1)
 
 ## Online Arena
+
+*Developed by The Online Battle Arena Team (Beterwel, MarcellVokk)*
+
 Online Arena aims to be the leading platform for online BFME gaming. With more than 2 years of research, we brought back Quickmatch, and made online BFME gaming as easy as clicking a button. Arena features completely automatic matchmaking, win detection, and ladders. You just click and play! The total number of players who have already signed up is more than 20,000!<br>
 **Join now: https://bfmeladder.com/**
 
 ## Bfme Workshop
+
+*Developed by The Online Battle Arena Team, in collaboration with the Patch 2.22 Team*
+
 Bfme Workshop aims to be the new home of BFME modding. With a brand new, completely automatic modding system, modding BFME has never been this easy! Switching between patches is seamless and fast, and downloading and activating mods or maps can be done with just around 4 clicks.
 <br>
 **And the best part: you can upload your own mods and maps to the workshop too!**
@@ -39,6 +45,9 @@ The All in One Launcher makes installing, modding and playing BFME games a breez
 If you are a developer, we have made all of this realy easy to implement into your own project! You can also find other tools here than can be realy useful for other applications.
 
 ## OnlineKit
+
+*Developed by The Online Battle Arena Team (Beterwel, MarcellVokk)*
+
 <a href="https://github.com/MarcellVokk/bfme-online-kit">
     <img src="https://img.shields.io/badge/GitHub-OnlineKit-lime"/>
 </a>
@@ -50,6 +59,9 @@ If you are a developer, we have made all of this realy easy to implement into yo
 OnlineKit allows you to easily and seemlessly integrate Online Arena into your own projects. Check it out!
 
 ## WorkshopKit
+
+*Developed by The Online Battle Arena Team, in collaboration with the Patch 2.22 Team*
+
 <a href="https://github.com/MarcellVokk/bfme-workshop-kit">
     <img src="https://img.shields.io/badge/GitHub-WorkshopKit-lime"/>
 </a>
@@ -61,6 +73,9 @@ OnlineKit allows you to easily and seemlessly integrate Online Arena into your o
 WorkshopKit allows you to easily integrate Bfme Workshop into your own projects, and access the public Workshop API. Check it out!
 
 ## RegistryKit
+
+*Developed by The Online Battle Arena Team (Beterwel, MarcellVokk)*
+
 <a href="https://github.com/MarcellVokk/bfme-registry-kit">
     <img src="https://img.shields.io/badge/GitHub-RegistryKit-lime"/>
 </a>
