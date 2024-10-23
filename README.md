@@ -2,7 +2,7 @@
 Welcome to the official github repository of the Bfme Foundation Project!
 This project was created with one goal: to help finaly unite and bring together the BFME community.
 
-**The Bfme Foundation Project is a growing collaboration between multiple BFME teams and developer communities.**
+**The Bfme Foundation Project is a growing collaboration between multiple BFME communities and developer teams.**
 
 ## Members
 The Bfme Foundation Project is currently collaborating with...
