@@ -15,18 +15,9 @@ The Bfme Foundation Project is currently collaborating with...
 
 *Developed by The Online Battle Arena Team (Beterwel, MarcellVokk)*
 
-Online Arena aims to be the leading platform for online BFME gaming. With more than 2 years of research, we brought back Quickmatch, and made online BFME gaming as easy as clicking a button. Arena features completely automatic matchmaking, win detection, and ladders. You just click and play! The total number of players who have already signed up is more than 20,000!<br>
+Online Arena aims to be the leading platform for online BFME gaming. With more than 2 years of research, we brought back Quickmatch, and made online BFME gaming as easy as clicking a button. Arena features completely automatic matchmaking, win detection, and ladders. You just click and play! The total number of players who have already signed up is more than 25,000!
+
 **Join now: https://bfmeladder.com/**
-
-## Bfme Workshop
-
-*Developed by The Online Battle Arena Team, in collaboration with the Patch 2.22 Team*
-
-Bfme Workshop aims to be the new home of BFME modding. With a brand new, completely automatic modding system, modding BFME has never been this easy! Switching between patches is seamless and fast, and downloading and activating mods or maps can be done with just around 4 clicks.
-<br>
-**And the best part: you can upload your own mods and maps to the workshop too!**
-
-*Bfme Workshop is the platform used by Online Battle Arena and The All in One Launcher to manage patch syncing. Is is publicly available to upload to, and provides easy to use tools for developers to add to their own projects!*
 
 ## All in One Launcher
 
@@ -37,11 +28,19 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 </a><br>
 
 The All in One Launcher makes installing, modding and playing BFME games a breeze. Play with people around the world with built in multiplayer support trough Arena, discover new patches, maps and mods trough the Workshop, watch BFME quides and much more, this is the one launcher to rule them all!
-<br>
 
-**This launcher is recommended by The Bfme Foundation Project. It can be downloaded directly from https://bfmeladder.com/download**
+*This launcher is the Bfme Foundation Project's recommended launcher!*<br>
+**Get it here: https://bfmeladder.com/download**
 
+## Bfme Workshop
+
+*Developed by The Online Battle Arena Team, in collaboration with the Patch 2.22 Team*
+
+Bfme Workshop aims to be the new home of BFME modding. With a brand new, completely automatic modding system, modding BFME has never been this easy! Switching between patches is seamless and fast, and downloading and activating mods or maps can be done with just around 4 clicks.
 <br>
+**And the best part: you can upload your own mods and maps to the workshop too!**
+
+*Bfme Workshop is the platform used by Online Battle Arena and The All in One Launcher to manage patch syncing. Is is publicly available to upload to, and provides easy to use tools for developers to add to their own projects!*
 
 # For developers
 If you are a developer, we have made all of this realy easy to implement into your own project! You can also find other tools here than can be realy useful for other applications.
