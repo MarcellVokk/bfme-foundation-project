@@ -43,7 +43,7 @@ Bfme Workshop aims to be the new home of BFME modding. With a brand new, complet
 *Bfme Workshop is the platform used by Online Battle Arena and The All in One Launcher to manage patch syncing. Is is publicly available to upload to, and provides easy to use tools for developers to add to their own projects!*
 
 # For developers
-If you are a developer, we have made Arena and the Bfme Workshop realy easy to add to your own project! You can also find other tools here than can be realy useful, such as a Bfme Registry management library.
+If you are a developer, we have made Arena and the Bfme Workshop realy easy to add to your own project! You can also find other tools here we've made that can be realy useful, such as a Bfme Registry management library.
 
 ## OnlineKit
 
