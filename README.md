@@ -8,8 +8,11 @@ This project was created with one goal: to help finaly unite and bring together 
 The Bfme Foundation Project is currently collaborating with...
 - Online Battle Arena Team
 - Patch 2.22 Team (BFME1)
+- Patch 1.09 Team (BFME2)
 - Patch 2.02 Team (ROTWK)
-- Patch 1.09 Team (BFME1)
+- Edain Team (ROTWK)
+- Edain Unchained Team (ROTWK)
+- Ennorath Team (ROTWK)
 
 ## Online Arena
 
